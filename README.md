@@ -32,6 +32,7 @@ My core focus bridges **quantitative business acumen, operational modeling, and 
 
 | System & Repository | Domain | Core Stack | Key Impact & Verified Metric |
 | :--- | :--- | :--- | :--- |
+| **[autonomous-software-factory](https://github.com/ronaldreighsrsc/autonomous-software-factory)** | AI Systems & Reliability | `Python 3.12` `Pydantic v2` `StateGraphs` `SQLite WAL` `Pytest` | Closed-loop software engineering engine. Deterministic Pytest oracle, SHA-256 anti-oscillation circuit breakers (<$0.25 USD, 8 steps), and time-travel debugging. **29 unit tests (100% pass rate)**. |
 | **[cold-chain-telemetry-sentinel](https://github.com/ronaldreighsrsc/cold-chain-telemetry-sentinel)** | Real-Time IoT & Streaming | `Redpanda (Kafka)` `Uber H3` `DuckDB OLAP` `Python` | Complex Event Processing (CEP) under Newton's Law of Cooling. Evaluates thermal breach windows in **&lt;45 ms** to prevent **$120,000+ USD** in cargo loss. |
 | **[delta-settlement-lakehouse](https://github.com/ronaldreighsrsc/delta-settlement-lakehouse)** | Fintech Lakehouse | `Delta Lake` `Polars` `DuckDB` `PyArrow` `Typer` | Cross-border B2B settlement engine on **Medallion ACID architecture**. In-flight data contracts (ISO 4217, SWIFT BIC) with automated Dead-Letter Queue (DLQ). |
 | **[food-retail-demand-planner](https://github.com/ronaldreighsrsc/food-retail-demand-planner)** | Supply Chain & Retail Analytics | `Python` `SQL` `Streamlit` `OpenPyXL` | Multi-echelon demand planning across **+52 retail stores**. Hierarchical forecasting, WAPE/Bias mathematical auditing, safety stock, and FEFO perishable management. |
@@ -68,7 +69,7 @@ My core focus bridges **quantitative business acumen, operational modeling, and 
   <tr>
     <td width="25%"><strong>Software &amp; Infrastructure</strong></td>
     <td>
-      <code>Git &amp; GitHub Actions</code> · <code>Docker</code> · <code>Linux / Bash</code> · <code>Test-Driven Development (Pytest)</code> · <code>FastAPI</code> · <code>Streamlit</code> · <code>Clean Architecture</code>
+      <code>Pydantic v2</code> · <code>StateGraphs / FSM</code> · <code>Git &amp; GitHub Actions</code> · <code>Docker</code> · <code>Linux / Bash</code> · <code>Test-Driven Development (Pytest)</code> · <code>FastAPI</code> · <code>Streamlit</code> · <code>Clean Architecture</code>
     </td>
   </tr>
 </table>
