@@ -66,7 +66,7 @@
     <text x="0" y="68" class="name-title">Ronald Solares Chuquera</text>
 
     <!-- Role -->
-    <text x="0" y="100" class="role-subtitle">Industrial Civil Engineer · Data &amp; Business Analytics</text>
+    <text x="0" y="100" class="role-subtitle">Analytics Engineer · Data Engineer · Industrial Civil Engineer</text>
 
     <!-- Horizontal divider line -->
     <line x1="0" y1="120" x2="650" y2="120" stroke="#334155" stroke-width="1" stroke-opacity="0.8" />
