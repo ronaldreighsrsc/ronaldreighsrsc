@@ -46,7 +46,6 @@ I bridge **quantitative business modeling, operational optimization, and corpora
 | **[edge-network-resilience-system](https://github.com/ronaldreighsrsc/edge-network-resilience-system)** | IoT Edge & Telemetry | `Python` `FastAPI` `Streamlit` `SQLite WAL` `MCDA` | Multi-criteria decision algorithm (TOPSIS with hysteresis) for industrial AP roaming. Lightweight daemon (&lt;120 MB RAM), DNS failover, and **49 unit tests (100% pass rate)**. |
 | **[predictive-maintenance-system](https://github.com/ronaldreighsrsc/predictive-maintenance-system)** | Industrial ML & Reliability | `Python` `Scikit-learn` `Streamlit` `SAP PM` | Real-time telemetry monitoring (ISO 13374) for turbomachinery. Bayesian cost matrix cutting false alarms by **38%**, Weibull RUL estimation, and automated SAP PM work orders. |
 | **[mlops-algorithmic-trading](https://github.com/ronaldreighsrsc/mlops-algorithmic-trading)** | Quantitative Trading & MLOps | `Python` `FastAPI` `Docker` `Pytest` | Event-driven order book streaming engine with **&lt;15 ms execution**. Fractional Kelly sizing, Risk Parity capital allocation, automated Kill-Switch, and **35 automated tests**. |
-| **[adaptive-learning-hub](https://github.com/ronaldreighsrsc/adaptive-learning-hub)** | AI Systems & EdTech | `Python 3.12` `FastAPI` `Gemini API` `SQLite WAL` `Pytest` | Cognitive spaced repetition engine implementing the SM-2 algorithmic model. Automated concept validation loop, SQLite WAL persistence, and **100% deterministic test coverage**. |
 
 ---
 
